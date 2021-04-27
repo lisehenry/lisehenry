@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Lise 👩🏻
 
-Business School Student and now Web Developer!
+Business School Student and Web Developer!
 
-- 🔭 I’m currently working on MuseMySelf
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working on side projects to practice my coding skills
 - 📫 How to reach me: https://linkedin.com/in/lise-henry
 
 
@@ -11,6 +10,7 @@ Business School Student and now Web Developer!
 **lisehenry/lisehenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
